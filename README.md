@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python,AI Machine Learning**
 
-- 💬 Ask me about **PLC, SCADA, VFD, C, C++,Java, Python, Django, SQL,**
+- 💬 Ask me about **PLC, SCADA, VFD, C++, Python, SQL,**
 
 - 📫 How to reach me **royarup2108@gmail.com**
 
